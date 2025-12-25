@@ -1,6 +1,9 @@
 <h1 align="center">Hey 👋 What's Up?</h1>
 <h3 align="center">4th year student in Computer and Network Engineering at EMSI. IT professional particularly in systems administration, networks, and databases; in IT development with a mastery of the main programming languages and their Frameworks; in virtualization and cloud technologies and finally in IS analysis and design. Passionate about new technologies and having numerous projects that strengthen my knowledge. Constantly monitoring the latest innovations in the sector. Rigorous, autonomous, analytical mind, problem solving, and adaptable.</h3>
 <div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="60" alt="Oracle"/>
+</div>
+<div align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,java,c,cpp,cs,go,rust,php,ruby,kotlin,swift,dart,scala,react,reactnative,vue,angular,nextjs,nodejs,nestjs,express,django,flask,fastapi,laravel,spring,javafx,mysql,postgres,mongodb,sqlite,neo4j,redis,docker,kubernetes,nginx,aws,azure,gcp,oracle,linux,ubuntu,windows,git,github,gitlab,vscode,idea,pycharm,postman,figma,numpy,pandas,seaborn,opencv,tensorflow,pytorch,jupyter,arduino,bash,powershell,jenkins,ansible,kafka,firebase,vercel,heroku&perline=12" />
 </div>
 
