@@ -35,7 +35,4 @@
   </a>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=dracula&bg_color=0d1117&color=ff79c6&line=ff79c6&point=ffffff&hide_border=true" />
-</div>
 
